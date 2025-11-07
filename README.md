@@ -4,6 +4,7 @@ Building a modern data warehouse with SQL Server, including ETL processes, data 
 Welcome to my **Data Warehouse and Analytics Project** repository!
 This project demonstrates a comprehensive data warehouse and analytics solution, highlighting industry best practices in data engineering and analytics. 
 
+https://github.com/Shane360/Bike-Sales-Data-Warehouse-Project/blob/main/docs/Data%20Warehouse%20Architecture.jpg
 ---
 
 ## Project Requirements 
